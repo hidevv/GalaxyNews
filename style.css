@@ -1,0 +1,13 @@
+body {
+    margin: 0 auto;
+    width: 500px;
+    font-family: "Rajdhani", sans-serif;
+    font-size: 16px;
+}
+header {
+    text-align: left;
+}
+
+main {
+    text-align: justify;
+}
